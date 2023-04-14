@@ -1,0 +1,14 @@
+[
+  {
+    "studentId": 1,
+    "license": "Adam"
+  },
+  {
+    "studentId": 2,
+    "license": "Bartek"
+  },
+  {
+    "studentId": 3,
+    "license": "Czarek"
+  }
+]
